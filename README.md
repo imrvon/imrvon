@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my completed projects are available at [my website](https://imrvon.com).
 
-- 👷 Presently working on a Music Playlist project that will ultimately be Open Source, using Spotify's API.
+- 👷 Presently working on a [Music Playlist project](https://github.com/imrvon/for-you) that will ultimately be Open Source, using Spotify's API.
 
 - 📝 When its not gathering dust, [this page](https://imrvon.com/blog.html) contains all I've written on tech.
 
