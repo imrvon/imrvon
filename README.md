@@ -1,13 +1,15 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://imrvon.com)
-<h1 align="center">Hi 👋, I'm VoN</h1>
+<h1 align="center">Hi Wanderer 👋, I'm VoN</h1>
 <h3 align="center">A frontend developer and UI/UX designer from Lagos, Nigeria</h3>
-<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coder" width="400" src="https://imrvon.com/von.gif">
 
 <p align="left"> <a href="https://twitter.com/imrvon" target="blank"><img src="https://img.shields.io/twitter/follow/imrvon?logo=twitter&style=for-the-badge" alt="imrvon" /></a> </p>
 
 - 🔭 Founded [The Just Projects](https://thejustprojects.com), helping newbies in tech to find a good footing in either Web Development or UI/UX Design.
 
 - 🌱 I’m currently learning **Headless CMS**.
+
+-  💻 Some projects I love [Spay](https://spayv.netlify.app/), [Gretta](https://gretta.netlify.app), [Juice Labs](https://juice-lab.netlify.app/), [Hublot](https://hublotv.netlify.app/), and [Muse Ilk](https://muse-ilk.netlify.app/)
 
 - 👨‍💻 All of my completed projects are available at [my website](https://imrvon.com).
 
