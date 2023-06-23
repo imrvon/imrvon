@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my completed projects are available at [my website](https://imrvon.com).
 
-- 👷 Presently working on a [Music Playlist project](https://github.com/imrvon/for-you) that will ultimately be Open Source, using Spotify's API.
+- 👷 Presently working on [ASAD](https://github.com/imrvon/asad), a song niched project using Spotify's API that will ultimately be Open Sourced.
 
 - 📝 When its not gathering dust, [this page](https://imrvon.com/blog.html) contains all I've written on tech.
 
