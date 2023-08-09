@@ -15,7 +15,7 @@
 
 - 👷 Presently working on [ASAD](https://github.com/imrvon/asad), a song niched project using Spotify's API that will ultimately be Open Sourced.
 
-- 📝 When its not gathering dust, [this page](https://imrvon.com/blog.html) contains all I've written on tech.
+- 📝 When its not gathering dust, [this page](https://imrvon.com/blog) contains all I've written on tech so far (which isn't much).
 
 - 💬 Ask me about **tailwind, react, gsap, swiperjs** and I'll do my best to answer coherently.
 
