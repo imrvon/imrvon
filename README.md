@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://imrvon.com)
 <h1 align="center">Hi Wanderer 👋, I'm VoN</h1>
-<h3 align="center">A frontend developer and UI/UX designer from Lagos, Nigeria</h3>
+<h3 align="center">A frontend developer from Lagos, Nigeria</h3>
 <img align="right" alt="coder" width="400" src="https://imrvon.com/von.gif">
 
 <p align="left"> <a href="https://twitter.com/imrvon" target="blank"><img src="https://img.shields.io/twitter/follow/imrvon?logo=twitter&style=for-the-badge" alt="imrvon" /></a> </p>
@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Headless CMS**.
 
--  💻 Some projects I love [McKinstry Moving](https://mckinstrymoving.com/), [Spay](https://spayv.netlify.app/), [Gretta](https://gretta.netlify.app), [Juice Labs](https://juice-lab.netlify.app/), [Hublot](https://hublotv.netlify.app/), and [Muse Ilk](https://muse-ilk.netlify.app/)
+-  💻 Some projects I love [McKinstry Moving](https://mckinstrymoving.com/), [Retiva](https://retiva.co/), [Ovaloop](https://ovaloop.com/), [Spay](https://spayv.netlify.app/), [Gretta](https://gretta.netlify.app), [Juice Labs](https://juice-lab.netlify.app/), [Hublot](https://hublotv.netlify.app/), and [Muse Ilk](https://muse-ilk.netlify.app/). Due to several reasons spanning from NDAs and Vow of Confidentiality, all of these projects are on private repositories.
 
 - 👨‍💻 All of my completed projects are available at [my website](https://imrvon.com).
 
-- 👷 Presently working on [ASAD](https://github.com/imrvon/asad), a song niched project using Spotify's API that will ultimately be Open Sourced.
+- 👷 My personal pet project named [ASAD](https://github.com/imrvon/asad) which stands for A SONG A DAY, is on an open repository though. This music niched project was created using Spotify's API and it is Open Sourced so feel free to go through the documentation, fork it and dive right in. Can't wait to see what you do to make it better. Also feel free to open up issues you discovered when tinkering and I'd do well to fix them.
 
-- 📝 When its not gathering dust, [this page](https://imrvon.com/blog) contains all I've written on tech so far (which isn't much).
+- 📝 When its not gathering dust, [this page](https://imrvon.com/blog) contains all I've written on web development so far (which isn't much).
 
-- 💬 Ask me about **tailwind, react, gsap, swiperjs** and I'll do my best to answer coherently.
+- 💬 Ask me about **html, css, tailwind, react, gsap, swiperjs** and I'll do my best to answer coherently.
 
-- 📫 Feel free to reach me on **hi@imrvon.com**
+- 📫 Feel free to reach me on [hi@imrvon.com](https://mailto:hi@imrvon.com).
 
 - 📄 Need my CV? [Here You Go!](https://imrvon.com/portfolio.pdf)
 
