@@ -7,21 +7,21 @@
 
 - 🔭 Founded [The Just Projects](https://thejustprojects.com), helping newbies in tech to find a good footing in either Web Development or UI/UX Design.
 
-- 🌱 I’m currently learning **Headless CMS**.
+- 🌱 I’m currently learning **ThreeJS**.
 
--  💻 Some projects I love [McKinstry Moving](https://mckinstrymoving.com/), [Retiva](https://retiva.co/), [Ovaloop](https://ovaloop.com/), [Spay](https://spayv.netlify.app/), [Gretta](https://gretta.netlify.app), [Juice Labs](https://juice-lab.netlify.app/), [Hublot](https://hublotv.netlify.app/), and [Muse Ilk](https://muse-ilk.netlify.app/). Due to several reasons spanning from NDAs and Vow of Confidentiality, all of these projects are on private repositories.
+-  💻 Some personal projects I love [Spay](https://spayv.netlify.app/), [Gretta](https://gretta.netlify.app), [Juice Labs](https://juice-lab.netlify.app/), [Hublot](https://hublotv.netlify.app/), and [Muse Ilk](https://muse-ilk.netlify.app/). Due to several reasons spanning from NDAs to personal paranoia, all of these projects are on private repositories.
 
-- 👨‍💻 All of my completed projects are available at [my website](https://imrvon.com).
+- 👨‍💻 All completed commissioned projects are available on [my website](https://imrvon.dev).
 
 - 👷 My personal pet project named [ASAD](https://github.com/imrvon/asad) which stands for A SONG A DAY, is on an open repository though. This music niched project was created using Spotify's API and it is Open Sourced so feel free to go through the documentation, fork it and dive right in. Can't wait to see what you do to make it better. Also feel free to open up issues you discovered when tinkering and I'd do well to fix them.
 
-- 📝 When its not gathering dust, [this page](https://imrvon.com/blog) contains all I've written on web development so far (which isn't much).
+- 📝 When its not gathering dust, [this page](https://imrvon.dev/blog) contains all I've written on web development so far (which isn't much).
 
 - 💬 Ask me about **html, css, tailwind, react, gsap, swiperjs** and I'll do my best to answer coherently.
 
-- 📫 Feel free to reach me on [hi@imrvon.com](https://mailto:hi@imrvon.com).
+- 📫 Feel free to reach me on [hi@imrvon.dev](https://mailto:hi@imrvon.dev).
 
-- 📄 Need my CV? [Here You Go!](https://imrvon.com/portfolio.pdf)
+- 📄 Need my CV? [Here You Go!](https://imrvon.dev/portfolio.pdf)
 
 - ⚡ Fun fact **I once ran a [comedy animation YouTube channel](https://www.youtube.com/watch?v=rSunRvIuyrk)**.
 
